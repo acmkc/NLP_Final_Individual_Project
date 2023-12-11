@@ -18,4 +18,4 @@ Sentiment Analysis using a baseline model and a fine tune pre trained model.
 ## To train the model
 * DistilBERT model
 
-  Go into the final.ipynb - Part2 - start running!
+  Go into the folder "Code" - final.ipynb - Part2 - start running!
