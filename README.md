@@ -1,5 +1,4 @@
-# NLP Final-Individual-Project-Group4
-
+# NLP Final-Individual-Project
 ## Introduction
 As a business person with a marketing background, I would like to explore the usage of NLP
 techniques to address common marketing problems – the customer service team spending too much
