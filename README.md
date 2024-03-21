@@ -2,7 +2,7 @@
 ## Introduction
 As a business person with a marketing background, I would like to explore the usage of NLP
 techniques to address common marketing problems – the customer service team spending too much
-time on reading each product's review might delay the messages that could be more urgent,
+time reading each product's review might delay messages that could be more urgent,
 leading to more complaints. Therefore, to mitigate this problem, I built a sentiment classifier to help
 the customer service team prioritize their tasks by categorizing the sentiment of the incoming product
 reviews. This sentiment classifier can detect whether the reviews are positive or negative. I used a
